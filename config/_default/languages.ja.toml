@@ -1,0 +1,22 @@
+languageCode = "ja"
+languageName = "日本語"
+title = "tokap0 Website"
+
+[params]
+  displayName = "JA"
+  isoCode = "ja"
+  dateFormat = "2006/01/02 15:04"
+  # logo = "img/tokap0_icon.jpg"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "tokap0"
+  image = "img/tokap0_icon.jpg"
+  headline = "ゲーム依存な虚無主義者"
+  bio = "大体家にいます"
+  links = [
+     { github = "https://github.com/t0kapo" },
+     { x-twitter = "https://x.com/tokap0" },
+  ]
