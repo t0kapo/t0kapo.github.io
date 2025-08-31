@@ -1,6 +1,6 @@
 +++
 title = "GitHub PagesとHugo(テーマはBlowfish)でサイト作った"
-date = 2025-08-30T16:20:00+09:00
+date = 2025-08-31T16:20:00+09:00
 showDateUpdated = true
 +++
 
