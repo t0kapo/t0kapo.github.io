@@ -4,13 +4,13 @@
 
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-08-31T04:28:48+09:00</lastmod>
+    <lastmod>2025-08-31T05:51:54+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/about/</loc>
-    <lastmod>2025-08-31T07:16:50+09:00</lastmod>
+    <lastmod>2025-08-31T13:04:51+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
