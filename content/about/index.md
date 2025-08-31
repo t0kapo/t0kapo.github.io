@@ -1,3 +1,9 @@
++++
+date = 2025-08-31T07:00:00+09:00
+showDateUpdated = true
++++
+
+
 # About
 
 2018/04〜2022/03 : College Student(Computer Science)  

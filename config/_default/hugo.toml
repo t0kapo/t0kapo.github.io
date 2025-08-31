@@ -37,6 +37,7 @@ enableGitInfo = true
   priority = 0.5
 
 [frontmatter]
+  date    = ["date", "publishDate", ":git"]
   lastmod = [":git", ":fileModTime",":default"]
 
 [outputs]
